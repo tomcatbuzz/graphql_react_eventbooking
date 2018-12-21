@@ -1,7 +1,0 @@
-{
-  "env": {
-    "MONGO_USER": "tomcatbuzz",
-    "MONGO_PASSWORD": "MFMXxDSw4jD6Xc2W",
-    "MONGO_DB": "events-react-dev"
-  }
-}
